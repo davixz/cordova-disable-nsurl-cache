@@ -12,8 +12,8 @@
 
 - (void)pluginInitialize
 {
-    int cacheSizeMemory = 8 * 1024 * 1024;
-    int cacheSizeDisk = 0;
+    int cacheSizeMemory = 8 * 1024 * 1024; // 32MB
+    int cacheSizeDisk = 0; // Disable the cache setting to 0 bytes cache allowed
     
 #if __has_feature(objc_arc)
     NSURLCache* sharedCache = [[NSURLCache alloc] initWithMemoryCapacity:cacheSizeMemory diskCapacity:cacheSizeDisk diskPath:@"nsurlcache"];

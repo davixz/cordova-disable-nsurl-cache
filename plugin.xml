@@ -8,7 +8,7 @@
     <description>Cordova disable NSURL cache plugin</description>
     
     <engines>
-        <engine name="cordova" version=">=2.7.0" />
+        <engine name="cordova" version=">=3.0.0" />
     </engines>
     
     <!-- ios -->
