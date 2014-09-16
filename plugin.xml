@@ -20,7 +20,7 @@
             </feature>
         </config-file>
         
-        <header-file src="src/ios/CordovaDisableNSURLCache" />
-        <source-file src="src/ios/CordovaDisableNSURLCache" />
+        <header-file src="src/ios/CordovaDisableNSURLCache.h" />
+        <source-file src="src/ios/CordovaDisableNSURLCache.m" />
     </platform>
 </plugin>
