@@ -1,13 +1,9 @@
 Cordova Disable NSURL Cache
 ===========
 
-Cordova plugin which completely disable the NSURL cache.
+Cordova plugin which completely disables the NSURL cache.
 
 Maintainer: Mauro Gadaleta <<mauro.gadaleta@wonga.com>>
-
-Demo
-------------
-<http://wongatech.github.io/angular-http-loader/>
 
 
 Installation
