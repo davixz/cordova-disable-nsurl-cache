@@ -12,7 +12,7 @@ Installation
 Cordova:
 
 ```sh
-cordova plugin add https://github.com/wongatech/cordova-disable-nsurl-cache.git
+cordova plugin add com.wongatech.cordova-disable-nsurl-cache
 ```
 
 Usage
